@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #00f2fe; /* Match the theme */
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e6f7ff;
+}
